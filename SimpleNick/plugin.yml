@@ -1,0 +1,10 @@
+name: SimpleNick
+version: 0.1
+main: SimpleNick\Main
+api: 3.0.0
+author: Moadassam
+
+commands:
+  nick:
+    description: Permet de changer ton pseudo
+    permission: nick.use
